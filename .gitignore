@@ -1,0 +1,22 @@
+# Virtuális környezet és gyorsítótárak (újra létrehozhatók: README, Futtatás)
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Ideiglenes PDF-építési fájlok
+docs/forras/_*_tmp.html
+
+# Rendszerfájlok
+Thumbs.db
+desktop.ini
+.DS_Store
+
+
+# Licensed / third-party raw data - not redistributed (see data/README.md)
+data/wti_pipeline/wti_5min_sessions.parquet
+data/raw/market/SP500.csv
+data/raw/market/USD_Index.csv
+data/raw/market/Volatility_Index.csv
+data/raw/crossasset/

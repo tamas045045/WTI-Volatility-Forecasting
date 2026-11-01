@@ -1,0 +1,10 @@
+H,mean_ratio_meas_vs_RV,share_not_sig_worse,n_pairs,supported,share_of_total_gain_from_L2,share_L1L2_sig,share_L1_lstm_sig_better,ratio_L1,ratio_L4,share_HAR_sig,share_LSTM_sig,ratio_HAR,ratio_LSTM,sample,quartic_vs_log_ratio,max_soft_effect,min_core_effect
+H1,0.9733662062553108,1.0,128.0,True,,,,,,,,,,full,,,
+H2,,,32.0,True,0.9904530472221178,1.0,,,,,,,,full,,,
+H3,,,32.0,True,,,0.0,1.0105497788771434,1.007844419339777,,,,,full,,,
+H4,,,32.0,False,,,,,,0.0625,0.21875,0.9917509630078281,0.9900491211599823,full,,,
+H1,0.971193403203779,1.0,128.0,True,,,,,,,,,,ex_2020,,,
+H2,,,32.0,True,0.9576414436385358,0.71875,,,,,,,,ex_2020,,,
+H3,,,32.0,True,,,0.0,1.014284749591859,1.010046427935539,,,,,ex_2020,,,
+H4,,,32.0,False,,,,,,0.125,0.375,0.9880596493367562,0.985726726479717,ex_2020,,,
+H5,,,,False,,,,,,,,,,full,1.0527449596056029,0.05123517459734106,0.046747890155847835

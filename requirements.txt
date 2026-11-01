@@ -1,0 +1,13 @@
+# A projekt Python-környezete (Python 3.14). Telepítés:  python -m venv venv  &&  venv\Scripts\pip install -r requirements.txt
+numpy==2.4.2
+pandas==3.0.1
+pyarrow==23.0.1
+scipy==1.17.1
+arch==8.0.0
+torch==2.14.0
+matplotlib==3.11.2
+pytest
+# A notebooks/ mappa notebookjaihoz (VS Code / Jupyter kernel, illetve parancssori futtatás)
+ipykernel==7.4.0
+nbclient==0.11.0
+nbformat==5.11.1

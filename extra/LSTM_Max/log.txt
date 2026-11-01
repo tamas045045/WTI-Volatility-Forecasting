@@ -1,0 +1,923 @@
+start: 2026. 10. 21. 20:35:54,99 
+HANGOLAS 1/96 (1%) | eltelt 37 perc
+HANGOLAS 2/96 (2%) | eltelt 40 perc
+HANGOLAS 3/96 (3%) | eltelt 41 perc
+HANGOLAS 4/96 (4%) | eltelt 43 perc
+HANGOLAS 5/96 (5%) | eltelt 45 perc
+HANGOLAS 6/96 (6%) | eltelt 46 perc
+HANGOLAS 7/96 (7%) | eltelt 77 perc
+HANGOLAS 8/96 (8%) | eltelt 78 perc
+HANGOLAS 9/96 (9%) | eltelt 79 perc
+HANGOLAS 10/96 (10%) | eltelt 79 perc
+HANGOLAS 11/96 (11%) | eltelt 80 perc
+HANGOLAS 12/96 (12%) | eltelt 82 perc
+HANGOLAS 13/96 (14%) | eltelt 84 perc
+HANGOLAS 14/96 (15%) | eltelt 85 perc
+HANGOLAS 15/96 (16%) | eltelt 86 perc
+HANGOLAS 16/96 (17%) | eltelt 87 perc
+HANGOLAS 17/96 (18%) | eltelt 91 perc
+HANGOLAS 18/96 (19%) | eltelt 92 perc
+HANGOLAS 19/96 (20%) | eltelt 94 perc
+HANGOLAS 20/96 (21%) | eltelt 98 perc
+HANGOLAS 21/96 (22%) | eltelt 102 perc
+HANGOLAS 22/96 (23%) | eltelt 102 perc
+HANGOLAS 23/96 (24%) | eltelt 107 perc
+HANGOLAS 24/96 (25%) | eltelt 108 perc
+HANGOLAS 25/96 (26%) | eltelt 108 perc
+HANGOLAS 26/96 (27%) | eltelt 110 perc
+HANGOLAS 27/96 (28%) | eltelt 113 perc
+HANGOLAS 28/96 (29%) | eltelt 113 perc
+HANGOLAS 29/96 (30%) | eltelt 115 perc
+HANGOLAS 30/96 (31%) | eltelt 117 perc
+HANGOLAS 31/96 (32%) | eltelt 122 perc
+HANGOLAS 32/96 (33%) | eltelt 122 perc
+HANGOLAS 33/96 (34%) | eltelt 122 perc
+HANGOLAS 34/96 (35%) | eltelt 122 perc
+HANGOLAS 35/96 (36%) | eltelt 123 perc
+HANGOLAS 36/96 (38%) | eltelt 124 perc
+HANGOLAS 37/96 (39%) | eltelt 126 perc
+HANGOLAS 38/96 (40%) | eltelt 127 perc
+HANGOLAS 39/96 (41%) | eltelt 128 perc
+HANGOLAS 40/96 (42%) | eltelt 129 perc
+HANGOLAS 41/96 (43%) | eltelt 134 perc
+HANGOLAS 42/96 (44%) | eltelt 134 perc
+HANGOLAS 43/96 (45%) | eltelt 135 perc
+HANGOLAS 44/96 (46%) | eltelt 136 perc
+HANGOLAS 45/96 (47%) | eltelt 137 perc
+HANGOLAS 46/96 (48%) | eltelt 137 perc
+HANGOLAS 47/96 (49%) | eltelt 138 perc
+HANGOLAS 48/96 (50%) | eltelt 138 perc
+HANGOLAS 49/96 (51%) | eltelt 140 perc
+HANGOLAS 50/96 (52%) | eltelt 140 perc
+HANGOLAS 51/96 (53%) | eltelt 143 perc
+HANGOLAS 52/96 (54%) | eltelt 143 perc
+HANGOLAS 53/96 (55%) | eltelt 144 perc
+HANGOLAS 54/96 (56%) | eltelt 144 perc
+HANGOLAS 55/96 (57%) | eltelt 145 perc
+HANGOLAS 56/96 (58%) | eltelt 145 perc
+HANGOLAS 57/96 (59%) | eltelt 145 perc
+HANGOLAS 58/96 (60%) | eltelt 146 perc
+HANGOLAS 59/96 (61%) | eltelt 148 perc
+HANGOLAS 60/96 (62%) | eltelt 148 perc
+HANGOLAS 61/96 (64%) | eltelt 149 perc
+HANGOLAS 62/96 (65%) | eltelt 149 perc
+HANGOLAS 63/96 (66%) | eltelt 151 perc
+HANGOLAS 64/96 (67%) | eltelt 151 perc
+HANGOLAS 65/96 (68%) | eltelt 152 perc
+HANGOLAS 66/96 (69%) | eltelt 152 perc
+HANGOLAS 67/96 (70%) | eltelt 153 perc
+HANGOLAS 68/96 (71%) | eltelt 153 perc
+HANGOLAS 69/96 (72%) | eltelt 153 perc
+HANGOLAS 70/96 (73%) | eltelt 153 perc
+HANGOLAS 71/96 (74%) | eltelt 154 perc
+HANGOLAS 72/96 (75%) | eltelt 155 perc
+HANGOLAS 73/96 (76%) | eltelt 155 perc
+HANGOLAS 74/96 (77%) | eltelt 155 perc
+HANGOLAS 75/96 (78%) | eltelt 155 perc
+HANGOLAS 76/96 (79%) | eltelt 156 perc
+HANGOLAS 77/96 (80%) | eltelt 156 perc
+HANGOLAS 78/96 (81%) | eltelt 156 perc
+HANGOLAS 79/96 (82%) | eltelt 156 perc
+HANGOLAS 80/96 (83%) | eltelt 157 perc
+HANGOLAS 81/96 (84%) | eltelt 157 perc
+HANGOLAS 82/96 (85%) | eltelt 157 perc
+HANGOLAS 83/96 (86%) | eltelt 158 perc
+HANGOLAS 84/96 (88%) | eltelt 158 perc
+HANGOLAS 85/96 (89%) | eltelt 158 perc
+HANGOLAS 86/96 (90%) | eltelt 158 perc
+HANGOLAS 87/96 (91%) | eltelt 158 perc
+HANGOLAS 88/96 (92%) | eltelt 158 perc
+HANGOLAS 89/96 (93%) | eltelt 158 perc
+HANGOLAS 90/96 (94%) | eltelt 158 perc
+HANGOLAS 91/96 (95%) | eltelt 158 perc
+HANGOLAS 92/96 (96%) | eltelt 159 perc
+HANGOLAS 93/96 (97%) | eltelt 159 perc
+HANGOLAS 94/96 (98%) | eltelt 159 perc
+HANGOLAS 95/96 (99%) | eltelt 159 perc
+HANGOLAS 96/96 (100%) | eltelt 159 perc
+anchor  seq_len  hidden  layers  dropout    lr  QLIKE_lstm  seconds  QLIKE_har  ratio_vs_har
+ today        5      16       1      0.0 0.003    0.018097    107.3   0.016574      1.091904
+ today        5      16       1      0.2 0.003    0.018239    104.2   0.016574      1.100477
+ today        5      16       1      0.2 0.001    0.018306    112.7   0.016574      1.104526
+ today        5      32       2      0.0 0.003    0.018340    520.8   0.016574      1.106551
+ today        5      32       1      0.2 0.003    0.018347    211.0   0.016574      1.106984
+ today       22      32       2      0.0 0.001    0.018378   2283.8   0.016574      1.108854
+ today       22      64       1      0.2 0.003    0.018388   2683.8   0.016574      1.109437
+ today        5      32       1      0.0 0.003    0.018406    211.7   0.016574      1.110540
+ today       22      32       2      0.0 0.003    0.018414   2240.3   0.016574      1.110997
+ today       22      32       1      0.2 0.003    0.018449   1131.4   0.016574      1.113104
+Strict beállítás: horgony=none, ablak=750, seq_len=5, hidden=16, layers=1, dropout=0.2, lr=0.003, seeds=10
+Free beállítás: horgony=today, ablak=bővülő, seq_len=5, hidden=16, layers=1, dropout=0.0, lr=0.003, seeds=10
+Free HALADAS 1/401 (0%) | 2018-08-30 | eltelt 0 perc | hátra kb. 33 perc
+Strict HALADAS 1/401 (0%) | 2018-08-30 | eltelt 0 perc | hátra kb. 36 perc
+Free HALADAS 2/401 (0%) | 2018-09-04 | eltelt 0 perc | hátra kb. 23 perc
+Strict HALADAS 2/401 (0%) | 2018-09-04 | eltelt 0 perc | hátra kb. 23 perc
+Free HALADAS 3/401 (1%) | 2018-09-10 | eltelt 0 perc | hátra kb. 19 perc
+Strict HALADAS 3/401 (1%) | 2018-09-10 | eltelt 0 perc | hátra kb. 19 perc
+Strict HALADAS 4/401 (1%) | 2018-09-17 | eltelt 0 perc | hátra kb. 18 perc
+Free HALADAS 4/401 (1%) | 2018-09-17 | eltelt 0 perc | hátra kb. 18 perc
+Strict HALADAS 5/401 (1%) | 2018-09-24 | eltelt 0 perc | hátra kb. 17 perc
+Free HALADAS 5/401 (1%) | 2018-09-24 | eltelt 0 perc | hátra kb. 17 perc
+Free HALADAS 6/401 (1%) | 2018-10-01 | eltelt 0 perc | hátra kb. 16 perc
+Strict HALADAS 6/401 (1%) | 2018-10-01 | eltelt 0 perc | hátra kb. 16 perc
+Free HALADAS 7/401 (2%) | 2018-10-08 | eltelt 0 perc | hátra kb. 15 perc
+Strict HALADAS 7/401 (2%) | 2018-10-08 | eltelt 0 perc | hátra kb. 15 perc
+Free HALADAS 8/401 (2%) | 2018-10-15 | eltelt 0 perc | hátra kb. 15 perc
+Strict HALADAS 8/401 (2%) | 2018-10-15 | eltelt 0 perc | hátra kb. 15 perc
+Free HALADAS 9/401 (2%) | 2018-10-22 | eltelt 0 perc | hátra kb. 15 perc
+Strict HALADAS 9/401 (2%) | 2018-10-22 | eltelt 0 perc | hátra kb. 15 perc
+Free HALADAS 10/401 (2%) | 2018-10-29 | eltelt 0 perc | hátra kb. 14 perc
+Strict HALADAS 10/401 (2%) | 2018-10-29 | eltelt 0 perc | hátra kb. 14 perc
+Free HALADAS 11/401 (3%) | 2018-11-05 | eltelt 0 perc | hátra kb. 14 perc
+Strict HALADAS 11/401 (3%) | 2018-11-05 | eltelt 0 perc | hátra kb. 14 perc
+Free HALADAS 12/401 (3%) | 2018-11-12 | eltelt 0 perc | hátra kb. 14 perc
+Strict HALADAS 12/401 (3%) | 2018-11-12 | eltelt 0 perc | hátra kb. 14 perc
+Free HALADAS 13/401 (3%) | 2018-11-19 | eltelt 0 perc | hátra kb. 13 perc
+Strict HALADAS 13/401 (3%) | 2018-11-19 | eltelt 0 perc | hátra kb. 14 perc
+Free HALADAS 14/401 (3%) | 2018-11-26 | eltelt 1 perc | hátra kb. 14 perc
+Strict HALADAS 14/401 (3%) | 2018-11-26 | eltelt 1 perc | hátra kb. 15 perc
+Free HALADAS 15/401 (4%) | 2018-12-03 | eltelt 1 perc | hátra kb. 14 perc
+Strict HALADAS 15/401 (4%) | 2018-12-03 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 16/401 (4%) | 2018-12-10 | eltelt 1 perc | hátra kb. 14 perc
+Strict HALADAS 16/401 (4%) | 2018-12-10 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 17/401 (4%) | 2018-12-17 | eltelt 1 perc | hátra kb. 14 perc
+Strict HALADAS 17/401 (4%) | 2018-12-17 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 18/401 (4%) | 2018-12-26 | eltelt 1 perc | hátra kb. 14 perc
+Strict HALADAS 18/401 (4%) | 2018-12-26 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 19/401 (5%) | 2018-12-31 | eltelt 1 perc | hátra kb. 14 perc
+Strict HALADAS 19/401 (5%) | 2018-12-31 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 20/401 (5%) | 2019-01-07 | eltelt 1 perc | hátra kb. 14 perc
+Strict HALADAS 20/401 (5%) | 2019-01-07 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 21/401 (5%) | 2019-01-14 | eltelt 1 perc | hátra kb. 14 perc
+Strict HALADAS 21/401 (5%) | 2019-01-14 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 22/401 (5%) | 2019-01-22 | eltelt 1 perc | hátra kb. 13 perc
+Strict HALADAS 22/401 (5%) | 2019-01-22 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 23/401 (6%) | 2019-01-28 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 24/401 (6%) | 2019-02-04 | eltelt 1 perc | hátra kb. 13 perc
+Strict HALADAS 23/401 (6%) | 2019-01-28 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 25/401 (6%) | 2019-02-11 | eltelt 1 perc | hátra kb. 13 perc
+Strict HALADAS 24/401 (6%) | 2019-02-04 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 26/401 (6%) | 2019-02-19 | eltelt 1 perc | hátra kb. 13 perc
+Strict HALADAS 25/401 (6%) | 2019-02-11 | eltelt 1 perc | hátra kb. 13 perc
+Strict HALADAS 26/401 (6%) | 2019-02-19 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 27/401 (7%) | 2019-02-25 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 28/401 (7%) | 2019-03-04 | eltelt 1 perc | hátra kb. 13 perc
+Strict HALADAS 27/401 (7%) | 2019-02-25 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 29/401 (7%) | 2019-03-11 | eltelt 1 perc | hátra kb. 13 perc
+Strict HALADAS 28/401 (7%) | 2019-03-04 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 30/401 (7%) | 2019-03-18 | eltelt 1 perc | hátra kb. 13 perc
+Strict HALADAS 29/401 (7%) | 2019-03-11 | eltelt 1 perc | hátra kb. 14 perc
+Free HALADAS 31/401 (8%) | 2019-03-25 | eltelt 1 perc | hátra kb. 13 perc
+Strict HALADAS 30/401 (7%) | 2019-03-18 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 32/401 (8%) | 2019-04-01 | eltelt 1 perc | hátra kb. 13 perc
+Strict HALADAS 31/401 (8%) | 2019-03-25 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 33/401 (8%) | 2019-04-08 | eltelt 1 perc | hátra kb. 12 perc
+Strict HALADAS 32/401 (8%) | 2019-04-01 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 34/401 (8%) | 2019-04-15 | eltelt 1 perc | hátra kb. 12 perc
+Strict HALADAS 33/401 (8%) | 2019-04-08 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 35/401 (9%) | 2019-04-22 | eltelt 1 perc | hátra kb. 12 perc
+Strict HALADAS 34/401 (8%) | 2019-04-15 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 36/401 (9%) | 2019-04-29 | eltelt 1 perc | hátra kb. 12 perc
+Strict HALADAS 35/401 (9%) | 2019-04-22 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 37/401 (9%) | 2019-05-06 | eltelt 1 perc | hátra kb. 12 perc
+Strict HALADAS 36/401 (9%) | 2019-04-29 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 38/401 (9%) | 2019-05-13 | eltelt 1 perc | hátra kb. 12 perc
+Strict HALADAS 37/401 (9%) | 2019-05-06 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 39/401 (10%) | 2019-05-20 | eltelt 1 perc | hátra kb. 12 perc
+Strict HALADAS 38/401 (9%) | 2019-05-13 | eltelt 1 perc | hátra kb. 13 perc
+Strict HALADAS 39/401 (10%) | 2019-05-20 | eltelt 1 perc | hátra kb. 12 perc
+Free HALADAS 40/401 (10%) | 2019-05-28 | eltelt 1 perc | hátra kb. 12 perc
+Free HALADAS 41/401 (10%) | 2019-06-03 | eltelt 1 perc | hátra kb. 12 perc
+Free HALADAS 42/401 (10%) | 2019-06-10 | eltelt 1 perc | hátra kb. 12 perc
+Strict HALADAS 40/401 (10%) | 2019-05-28 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 43/401 (11%) | 2019-06-17 | eltelt 1 perc | hátra kb. 12 perc
+Strict HALADAS 41/401 (10%) | 2019-06-03 | eltelt 1 perc | hátra kb. 13 perc
+Free HALADAS 44/401 (11%) | 2019-06-24 | eltelt 1 perc | hátra kb. 12 perc
+Strict HALADAS 42/401 (10%) | 2019-06-10 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 45/401 (11%) | 2019-07-01 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 43/401 (11%) | 2019-06-17 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 46/401 (11%) | 2019-07-08 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 44/401 (11%) | 2019-06-24 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 47/401 (12%) | 2019-07-15 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 45/401 (11%) | 2019-07-01 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 48/401 (12%) | 2019-07-22 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 49/401 (12%) | 2019-07-29 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 46/401 (11%) | 2019-07-08 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 50/401 (12%) | 2019-08-05 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 47/401 (12%) | 2019-07-15 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 51/401 (13%) | 2019-08-12 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 48/401 (12%) | 2019-07-22 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 52/401 (13%) | 2019-08-19 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 49/401 (12%) | 2019-07-29 | eltelt 2 perc | hátra kb. 13 perc
+Strict HALADAS 50/401 (12%) | 2019-08-05 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 53/401 (13%) | 2019-08-26 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 51/401 (13%) | 2019-08-12 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 54/401 (13%) | 2019-09-03 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 52/401 (13%) | 2019-08-19 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 55/401 (14%) | 2019-09-09 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 56/401 (14%) | 2019-09-16 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 53/401 (13%) | 2019-08-26 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 57/401 (14%) | 2019-09-23 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 54/401 (13%) | 2019-09-03 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 58/401 (14%) | 2019-09-30 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 55/401 (14%) | 2019-09-09 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 59/401 (15%) | 2019-10-07 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 56/401 (14%) | 2019-09-16 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 60/401 (15%) | 2019-10-14 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 57/401 (14%) | 2019-09-23 | eltelt 2 perc | hátra kb. 13 perc
+Free HALADAS 61/401 (15%) | 2019-10-21 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 58/401 (14%) | 2019-09-30 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 62/401 (15%) | 2019-10-28 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 59/401 (15%) | 2019-10-07 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 63/401 (16%) | 2019-11-04 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 60/401 (15%) | 2019-10-14 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 64/401 (16%) | 2019-11-11 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 61/401 (15%) | 2019-10-21 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 65/401 (16%) | 2019-11-18 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 62/401 (15%) | 2019-10-28 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 63/401 (16%) | 2019-11-04 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 66/401 (16%) | 2019-11-25 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 64/401 (16%) | 2019-11-11 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 67/401 (17%) | 2019-12-02 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 65/401 (16%) | 2019-11-18 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 68/401 (17%) | 2019-12-09 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 66/401 (16%) | 2019-11-25 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 69/401 (17%) | 2019-12-16 | eltelt 2 perc | hátra kb. 12 perc
+Strict HALADAS 67/401 (17%) | 2019-12-02 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 70/401 (17%) | 2019-12-26 | eltelt 2 perc | hátra kb. 11 perc
+Free HALADAS 71/401 (18%) | 2019-12-30 | eltelt 2 perc | hátra kb. 11 perc
+Strict HALADAS 68/401 (17%) | 2019-12-09 | eltelt 2 perc | hátra kb. 12 perc
+Free HALADAS 72/401 (18%) | 2020-01-06 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 69/401 (17%) | 2019-12-16 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 73/401 (18%) | 2020-01-13 | eltelt 3 perc | hátra kb. 12 perc
+Strict HALADAS 70/401 (17%) | 2019-12-26 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 74/401 (18%) | 2020-01-21 | eltelt 3 perc | hátra kb. 12 perc
+Strict HALADAS 71/401 (18%) | 2019-12-30 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 75/401 (19%) | 2020-01-27 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 72/401 (18%) | 2020-01-06 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 76/401 (19%) | 2020-02-03 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 73/401 (18%) | 2020-01-13 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 77/401 (19%) | 2020-02-10 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 74/401 (18%) | 2020-01-21 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 78/401 (19%) | 2020-02-18 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 75/401 (19%) | 2020-01-27 | eltelt 3 perc | hátra kb. 12 perc
+Strict HALADAS 76/401 (19%) | 2020-02-03 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 79/401 (20%) | 2020-02-24 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 77/401 (19%) | 2020-02-10 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 80/401 (20%) | 2020-03-02 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 78/401 (19%) | 2020-02-18 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 81/401 (20%) | 2020-03-09 | eltelt 3 perc | hátra kb. 11 perc
+Free HALADAS 82/401 (20%) | 2020-03-16 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 79/401 (20%) | 2020-02-24 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 83/401 (21%) | 2020-03-23 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 80/401 (20%) | 2020-03-02 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 84/401 (21%) | 2020-03-30 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 81/401 (20%) | 2020-03-09 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 85/401 (21%) | 2020-04-06 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 82/401 (20%) | 2020-03-16 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 86/401 (21%) | 2020-04-13 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 83/401 (21%) | 2020-03-23 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 87/401 (22%) | 2020-04-20 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 84/401 (21%) | 2020-03-30 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 88/401 (22%) | 2020-04-27 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 85/401 (21%) | 2020-04-06 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 89/401 (22%) | 2020-05-04 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 86/401 (21%) | 2020-04-13 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 90/401 (22%) | 2020-05-11 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 87/401 (22%) | 2020-04-20 | eltelt 3 perc | hátra kb. 12 perc
+Strict HALADAS 88/401 (22%) | 2020-04-27 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 91/401 (23%) | 2020-05-18 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 89/401 (22%) | 2020-05-04 | eltelt 3 perc | hátra kb. 12 perc
+Strict HALADAS 90/401 (22%) | 2020-05-11 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 92/401 (23%) | 2020-05-26 | eltelt 3 perc | hátra kb. 11 perc
+Strict HALADAS 91/401 (23%) | 2020-05-18 | eltelt 3 perc | hátra kb. 12 perc
+Free HALADAS 93/401 (23%) | 2020-06-01 | eltelt 3 perc | hátra kb. 11 perc
+Free HALADAS 94/401 (23%) | 2020-06-08 | eltelt 3 perc | hátra kb. 11 perc
+Free HALADAS 95/401 (24%) | 2020-06-15 | eltelt 3 perc | hátra kb. 11 perc
+Free HALADAS 96/401 (24%) | 2020-06-22 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 92/401 (23%) | 2020-05-26 | eltelt 4 perc | hátra kb. 12 perc
+Free HALADAS 97/401 (24%) | 2020-06-29 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 93/401 (23%) | 2020-06-01 | eltelt 4 perc | hátra kb. 12 perc
+Free HALADAS 98/401 (24%) | 2020-07-06 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 94/401 (23%) | 2020-06-08 | eltelt 4 perc | hátra kb. 12 perc
+Strict HALADAS 95/401 (24%) | 2020-06-15 | eltelt 4 perc | hátra kb. 12 perc
+Free HALADAS 99/401 (25%) | 2020-07-13 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 96/401 (24%) | 2020-06-22 | eltelt 4 perc | hátra kb. 12 perc
+Free HALADAS 100/401 (25%) | 2020-07-20 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 97/401 (24%) | 2020-06-29 | eltelt 4 perc | hátra kb. 12 perc
+Free HALADAS 101/401 (25%) | 2020-07-27 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 98/401 (24%) | 2020-07-06 | eltelt 4 perc | hátra kb. 12 perc
+Free HALADAS 102/401 (25%) | 2020-08-03 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 99/401 (25%) | 2020-07-13 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 103/401 (26%) | 2020-08-10 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 100/401 (25%) | 2020-07-20 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 104/401 (26%) | 2020-08-17 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 101/401 (25%) | 2020-07-27 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 102/401 (25%) | 2020-08-03 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 103/401 (26%) | 2020-08-10 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 105/401 (26%) | 2020-08-24 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 104/401 (26%) | 2020-08-17 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 106/401 (26%) | 2020-08-31 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 107/401 (27%) | 2020-09-08 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 108/401 (27%) | 2020-09-14 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 109/401 (27%) | 2020-09-21 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 105/401 (26%) | 2020-08-24 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 110/401 (27%) | 2020-09-30 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 106/401 (26%) | 2020-08-31 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 111/401 (28%) | 2020-11-19 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 107/401 (27%) | 2020-09-08 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 112/401 (28%) | 2020-11-23 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 108/401 (27%) | 2020-09-14 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 113/401 (28%) | 2020-11-30 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 109/401 (27%) | 2020-09-21 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 114/401 (28%) | 2020-12-07 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 110/401 (27%) | 2020-09-30 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 115/401 (29%) | 2020-12-14 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 111/401 (28%) | 2020-11-19 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 116/401 (29%) | 2020-12-21 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 112/401 (28%) | 2020-11-23 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 117/401 (29%) | 2020-12-28 | eltelt 4 perc | hátra kb. 10 perc
+Strict HALADAS 113/401 (28%) | 2020-11-30 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 118/401 (29%) | 2021-01-04 | eltelt 4 perc | hátra kb. 11 perc
+Strict HALADAS 114/401 (28%) | 2020-12-07 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 119/401 (30%) | 2021-01-11 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 120/401 (30%) | 2021-01-19 | eltelt 4 perc | hátra kb. 10 perc
+Strict HALADAS 115/401 (29%) | 2020-12-14 | eltelt 4 perc | hátra kb. 11 perc
+Free HALADAS 121/401 (30%) | 2021-01-25 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 116/401 (29%) | 2020-12-21 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 122/401 (30%) | 2021-02-01 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 117/401 (29%) | 2020-12-28 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 123/401 (31%) | 2021-02-08 | eltelt 5 perc | hátra kb. 10 perc
+Free HALADAS 124/401 (31%) | 2021-02-16 | eltelt 5 perc | hátra kb. 10 perc
+Free HALADAS 125/401 (31%) | 2021-02-22 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 118/401 (29%) | 2021-01-04 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 126/401 (31%) | 2021-03-01 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 119/401 (30%) | 2021-01-11 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 127/401 (32%) | 2021-03-08 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 120/401 (30%) | 2021-01-19 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 128/401 (32%) | 2021-03-15 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 121/401 (30%) | 2021-01-25 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 129/401 (32%) | 2021-03-22 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 122/401 (30%) | 2021-02-01 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 130/401 (32%) | 2021-03-29 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 123/401 (31%) | 2021-02-08 | eltelt 5 perc | hátra kb. 11 perc
+Strict HALADAS 124/401 (31%) | 2021-02-16 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 131/401 (33%) | 2021-04-05 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 125/401 (31%) | 2021-02-22 | eltelt 5 perc | hátra kb. 11 perc
+Strict HALADAS 126/401 (31%) | 2021-03-01 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 132/401 (33%) | 2021-04-12 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 127/401 (32%) | 2021-03-08 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 133/401 (33%) | 2021-04-19 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 128/401 (32%) | 2021-03-15 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 134/401 (33%) | 2021-04-26 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 129/401 (32%) | 2021-03-22 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 135/401 (34%) | 2021-05-03 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 130/401 (32%) | 2021-03-29 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 136/401 (34%) | 2021-05-10 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 131/401 (33%) | 2021-04-05 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 137/401 (34%) | 2021-05-17 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 132/401 (33%) | 2021-04-12 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 138/401 (34%) | 2021-05-24 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 133/401 (33%) | 2021-04-19 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 139/401 (35%) | 2021-06-01 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 134/401 (33%) | 2021-04-26 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 140/401 (35%) | 2021-06-07 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 135/401 (34%) | 2021-05-03 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 141/401 (35%) | 2021-06-14 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 136/401 (34%) | 2021-05-10 | eltelt 5 perc | hátra kb. 11 perc
+Free HALADAS 142/401 (35%) | 2021-06-21 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 137/401 (34%) | 2021-05-17 | eltelt 5 perc | hátra kb. 10 perc
+Free HALADAS 143/401 (36%) | 2021-06-28 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 138/401 (34%) | 2021-05-24 | eltelt 5 perc | hátra kb. 10 perc
+Free HALADAS 144/401 (36%) | 2021-07-06 | eltelt 5 perc | hátra kb. 10 perc
+Strict HALADAS 139/401 (35%) | 2021-06-01 | eltelt 6 perc | hátra kb. 10 perc
+Strict HALADAS 140/401 (35%) | 2021-06-07 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 145/401 (36%) | 2021-07-12 | eltelt 6 perc | hátra kb. 10 perc
+Strict HALADAS 141/401 (35%) | 2021-06-14 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 146/401 (36%) | 2021-07-19 | eltelt 6 perc | hátra kb. 10 perc
+Strict HALADAS 142/401 (35%) | 2021-06-21 | eltelt 6 perc | hátra kb. 10 perc
+Strict HALADAS 143/401 (36%) | 2021-06-28 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 147/401 (37%) | 2021-07-26 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 148/401 (37%) | 2021-08-02 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 149/401 (37%) | 2021-08-20 | eltelt 6 perc | hátra kb. 10 perc
+Strict HALADAS 144/401 (36%) | 2021-07-06 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 150/401 (37%) | 2021-08-23 | eltelt 6 perc | hátra kb. 10 perc
+Strict HALADAS 145/401 (36%) | 2021-07-12 | eltelt 6 perc | hátra kb. 10 perc
+Strict HALADAS 146/401 (36%) | 2021-07-19 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 151/401 (38%) | 2021-08-30 | eltelt 6 perc | hátra kb. 10 perc
+Strict HALADAS 147/401 (37%) | 2021-07-26 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 152/401 (38%) | 2021-09-07 | eltelt 6 perc | hátra kb. 10 perc
+Strict HALADAS 148/401 (37%) | 2021-08-02 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 153/401 (38%) | 2021-09-13 | eltelt 6 perc | hátra kb. 10 perc
+Strict HALADAS 149/401 (37%) | 2021-08-20 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 154/401 (38%) | 2021-09-20 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 150/401 (37%) | 2021-08-23 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 155/401 (39%) | 2021-09-27 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 151/401 (38%) | 2021-08-30 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 156/401 (39%) | 2021-10-04 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 152/401 (38%) | 2021-09-07 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 157/401 (39%) | 2021-10-11 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 153/401 (38%) | 2021-09-13 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 158/401 (39%) | 2021-10-18 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 154/401 (38%) | 2021-09-20 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 159/401 (40%) | 2021-10-25 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 155/401 (39%) | 2021-09-27 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 160/401 (40%) | 2021-11-01 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 156/401 (39%) | 2021-10-04 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 161/401 (40%) | 2021-11-08 | eltelt 6 perc | hátra kb. 9 perc
+Free HALADAS 162/401 (40%) | 2021-11-15 | eltelt 6 perc | hátra kb. 9 perc
+Free HALADAS 163/401 (41%) | 2021-11-22 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 157/401 (39%) | 2021-10-11 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 164/401 (41%) | 2021-11-29 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 158/401 (39%) | 2021-10-18 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 165/401 (41%) | 2021-12-06 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 159/401 (40%) | 2021-10-25 | eltelt 6 perc | hátra kb. 10 perc
+Strict HALADAS 160/401 (40%) | 2021-11-01 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 166/401 (41%) | 2021-12-13 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 161/401 (40%) | 2021-11-08 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 167/401 (42%) | 2021-12-20 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 162/401 (40%) | 2021-11-15 | eltelt 6 perc | hátra kb. 10 perc
+Free HALADAS 168/401 (42%) | 2021-12-27 | eltelt 6 perc | hátra kb. 9 perc
+Strict HALADAS 163/401 (41%) | 2021-11-22 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 169/401 (42%) | 2022-01-03 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 164/401 (41%) | 2021-11-29 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 165/401 (41%) | 2021-12-06 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 166/401 (41%) | 2021-12-13 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 170/401 (42%) | 2022-01-10 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 167/401 (42%) | 2021-12-20 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 171/401 (43%) | 2022-01-18 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 168/401 (42%) | 2021-12-27 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 172/401 (43%) | 2022-01-24 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 169/401 (42%) | 2022-01-03 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 173/401 (43%) | 2022-01-31 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 174/401 (43%) | 2022-02-07 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 170/401 (42%) | 2022-01-10 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 175/401 (44%) | 2022-02-14 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 171/401 (43%) | 2022-01-18 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 176/401 (44%) | 2022-02-22 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 172/401 (43%) | 2022-01-24 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 173/401 (43%) | 2022-01-31 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 177/401 (44%) | 2022-02-28 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 174/401 (43%) | 2022-02-07 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 178/401 (44%) | 2022-03-07 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 175/401 (44%) | 2022-02-14 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 179/401 (45%) | 2022-03-14 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 176/401 (44%) | 2022-02-22 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 180/401 (45%) | 2022-03-21 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 177/401 (44%) | 2022-02-28 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 178/401 (44%) | 2022-03-07 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 181/401 (45%) | 2022-03-28 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 179/401 (45%) | 2022-03-14 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 182/401 (45%) | 2022-04-04 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 180/401 (45%) | 2022-03-21 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 181/401 (45%) | 2022-03-28 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 183/401 (46%) | 2022-04-11 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 182/401 (45%) | 2022-04-04 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 184/401 (46%) | 2022-04-18 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 183/401 (46%) | 2022-04-11 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 185/401 (46%) | 2022-04-25 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 184/401 (46%) | 2022-04-18 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 186/401 (46%) | 2022-05-02 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 185/401 (46%) | 2022-04-25 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 187/401 (47%) | 2022-05-09 | eltelt 7 perc | hátra kb. 9 perc
+Strict HALADAS 186/401 (46%) | 2022-05-02 | eltelt 7 perc | hátra kb. 9 perc
+Free HALADAS 188/401 (47%) | 2022-05-16 | eltelt 7 perc | hátra kb. 8 perc
+Strict HALADAS 187/401 (47%) | 2022-05-09 | eltelt 8 perc | hátra kb. 9 perc
+Free HALADAS 189/401 (47%) | 2022-05-23 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 188/401 (47%) | 2022-05-16 | eltelt 8 perc | hátra kb. 9 perc
+Free HALADAS 190/401 (47%) | 2022-05-31 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 189/401 (47%) | 2022-05-23 | eltelt 8 perc | hátra kb. 9 perc
+Strict HALADAS 190/401 (47%) | 2022-05-31 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 191/401 (48%) | 2022-06-06 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 191/401 (48%) | 2022-06-06 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 192/401 (48%) | 2022-06-13 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 192/401 (48%) | 2022-06-13 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 193/401 (48%) | 2022-06-21 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 193/401 (48%) | 2022-06-21 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 194/401 (48%) | 2022-06-27 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 194/401 (48%) | 2022-06-27 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 195/401 (49%) | 2022-07-05 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 195/401 (49%) | 2022-07-05 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 196/401 (49%) | 2022-07-11 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 196/401 (49%) | 2022-07-11 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 197/401 (49%) | 2022-07-18 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 197/401 (49%) | 2022-07-18 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 198/401 (49%) | 2022-07-25 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 198/401 (49%) | 2022-07-25 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 199/401 (50%) | 2022-08-01 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 199/401 (50%) | 2022-08-01 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 200/401 (50%) | 2022-08-08 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 201/401 (50%) | 2022-08-15 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 200/401 (50%) | 2022-08-08 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 202/401 (50%) | 2022-08-22 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 201/401 (50%) | 2022-08-15 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 203/401 (51%) | 2022-08-29 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 202/401 (50%) | 2022-08-22 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 204/401 (51%) | 2022-09-06 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 203/401 (51%) | 2022-08-29 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 205/401 (51%) | 2022-09-12 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 206/401 (51%) | 2022-09-19 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 204/401 (51%) | 2022-09-06 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 207/401 (52%) | 2022-09-26 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 205/401 (51%) | 2022-09-12 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 208/401 (52%) | 2022-10-03 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 206/401 (51%) | 2022-09-19 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 207/401 (52%) | 2022-09-26 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 209/401 (52%) | 2022-10-10 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 208/401 (52%) | 2022-10-03 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 210/401 (52%) | 2022-10-17 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 211/401 (53%) | 2022-10-24 | eltelt 8 perc | hátra kb. 8 perc
+Free HALADAS 209/401 (52%) | 2022-10-10 | eltelt 8 perc | hátra kb. 8 perc
+Strict HALADAS 212/401 (53%) | 2022-10-31 | eltelt 9 perc | hátra kb. 8 perc
+Free HALADAS 210/401 (52%) | 2022-10-17 | eltelt 9 perc | hátra kb. 8 perc
+Strict HALADAS 213/401 (53%) | 2022-11-07 | eltelt 9 perc | hátra kb. 8 perc
+Free HALADAS 211/401 (53%) | 2022-10-24 | eltelt 9 perc | hátra kb. 8 perc
+Strict HALADAS 214/401 (53%) | 2022-11-15 | eltelt 9 perc | hátra kb. 8 perc
+Free HALADAS 212/401 (53%) | 2022-10-31 | eltelt 9 perc | hátra kb. 8 perc
+Strict HALADAS 215/401 (54%) | 2022-11-21 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 213/401 (53%) | 2022-11-07 | eltelt 9 perc | hátra kb. 8 perc
+Strict HALADAS 216/401 (54%) | 2022-11-28 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 217/401 (54%) | 2022-12-05 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 214/401 (53%) | 2022-11-15 | eltelt 9 perc | hátra kb. 8 perc
+Strict HALADAS 218/401 (54%) | 2022-12-12 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 215/401 (54%) | 2022-11-21 | eltelt 9 perc | hátra kb. 8 perc
+Strict HALADAS 219/401 (55%) | 2022-12-19 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 216/401 (54%) | 2022-11-28 | eltelt 9 perc | hátra kb. 8 perc
+Strict HALADAS 220/401 (55%) | 2022-12-27 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 221/401 (55%) | 2023-01-03 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 217/401 (54%) | 2022-12-05 | eltelt 9 perc | hátra kb. 8 perc
+Strict HALADAS 222/401 (55%) | 2023-01-09 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 218/401 (54%) | 2022-12-12 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 223/401 (56%) | 2023-01-17 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 219/401 (55%) | 2022-12-19 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 224/401 (56%) | 2023-01-23 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 220/401 (55%) | 2022-12-27 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 225/401 (56%) | 2023-01-30 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 226/401 (56%) | 2023-02-06 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 221/401 (55%) | 2023-01-03 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 227/401 (57%) | 2023-02-13 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 228/401 (57%) | 2023-02-21 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 222/401 (55%) | 2023-01-09 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 229/401 (57%) | 2023-02-27 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 230/401 (57%) | 2023-03-06 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 223/401 (56%) | 2023-01-17 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 231/401 (58%) | 2023-03-13 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 224/401 (56%) | 2023-01-23 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 232/401 (58%) | 2023-03-20 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 225/401 (56%) | 2023-01-30 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 233/401 (58%) | 2023-03-27 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 226/401 (56%) | 2023-02-06 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 234/401 (58%) | 2023-04-03 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 227/401 (57%) | 2023-02-13 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 228/401 (57%) | 2023-02-21 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 229/401 (57%) | 2023-02-27 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 235/401 (59%) | 2023-04-10 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 236/401 (59%) | 2023-04-17 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 230/401 (57%) | 2023-03-06 | eltelt 9 perc | hátra kb. 7 perc
+Strict HALADAS 237/401 (59%) | 2023-04-24 | eltelt 9 perc | hátra kb. 7 perc
+Free HALADAS 231/401 (58%) | 2023-03-13 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 238/401 (59%) | 2023-05-01 | eltelt 10 perc | hátra kb. 7 perc
+Free HALADAS 232/401 (58%) | 2023-03-20 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 239/401 (60%) | 2023-05-08 | eltelt 10 perc | hátra kb. 6 perc
+Strict HALADAS 240/401 (60%) | 2023-05-15 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 233/401 (58%) | 2023-03-27 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 241/401 (60%) | 2023-05-22 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 234/401 (58%) | 2023-04-03 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 242/401 (60%) | 2023-05-30 | eltelt 10 perc | hátra kb. 6 perc
+Strict HALADAS 243/401 (61%) | 2023-06-05 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 235/401 (59%) | 2023-04-10 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 244/401 (61%) | 2023-06-12 | eltelt 10 perc | hátra kb. 6 perc
+Strict HALADAS 245/401 (61%) | 2023-06-20 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 236/401 (59%) | 2023-04-17 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 246/401 (61%) | 2023-06-26 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 237/401 (59%) | 2023-04-24 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 247/401 (62%) | 2023-07-05 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 238/401 (59%) | 2023-05-01 | eltelt 10 perc | hátra kb. 7 perc
+Free HALADAS 239/401 (60%) | 2023-05-08 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 248/401 (62%) | 2023-07-10 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 240/401 (60%) | 2023-05-15 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 249/401 (62%) | 2023-07-17 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 241/401 (60%) | 2023-05-22 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 250/401 (62%) | 2023-07-24 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 242/401 (60%) | 2023-05-30 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 251/401 (63%) | 2023-07-31 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 243/401 (61%) | 2023-06-05 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 252/401 (63%) | 2023-08-07 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 244/401 (61%) | 2023-06-12 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 253/401 (63%) | 2023-08-14 | eltelt 10 perc | hátra kb. 6 perc
+Strict HALADAS 254/401 (63%) | 2023-08-21 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 245/401 (61%) | 2023-06-20 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 255/401 (64%) | 2023-08-28 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 246/401 (61%) | 2023-06-26 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 256/401 (64%) | 2023-09-05 | eltelt 10 perc | hátra kb. 6 perc
+Free HALADAS 247/401 (62%) | 2023-07-05 | eltelt 10 perc | hátra kb. 7 perc
+Strict HALADAS 257/401 (64%) | 2023-09-11 | eltelt 10 perc | hátra kb. 6 perc
+Strict HALADAS 258/401 (64%) | 2023-09-18 | eltelt 10 perc | hátra kb. 6 perc
+Strict HALADAS 259/401 (65%) | 2023-09-25 | eltelt 11 perc | hátra kb. 6 perc
+Free HALADAS 248/401 (62%) | 2023-07-10 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 260/401 (65%) | 2023-10-02 | eltelt 11 perc | hátra kb. 6 perc
+Free HALADAS 249/401 (62%) | 2023-07-17 | eltelt 11 perc | hátra kb. 6 perc
+Free HALADAS 250/401 (62%) | 2023-07-24 | eltelt 11 perc | hátra kb. 6 perc
+Free HALADAS 251/401 (63%) | 2023-07-31 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 261/401 (65%) | 2023-10-09 | eltelt 11 perc | hátra kb. 6 perc
+Free HALADAS 252/401 (63%) | 2023-08-07 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 262/401 (65%) | 2023-10-16 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 263/401 (66%) | 2023-10-23 | eltelt 11 perc | hátra kb. 6 perc
+Free HALADAS 253/401 (63%) | 2023-08-14 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 264/401 (66%) | 2023-10-30 | eltelt 11 perc | hátra kb. 6 perc
+Free HALADAS 254/401 (63%) | 2023-08-21 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 265/401 (66%) | 2023-11-06 | eltelt 11 perc | hátra kb. 6 perc
+Free HALADAS 255/401 (64%) | 2023-08-28 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 266/401 (66%) | 2023-11-13 | eltelt 11 perc | hátra kb. 6 perc
+Free HALADAS 256/401 (64%) | 2023-09-05 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 267/401 (67%) | 2023-11-20 | eltelt 11 perc | hátra kb. 5 perc
+Strict HALADAS 268/401 (67%) | 2023-11-27 | eltelt 11 perc | hátra kb. 5 perc
+Free HALADAS 257/401 (64%) | 2023-09-11 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 269/401 (67%) | 2023-12-04 | eltelt 11 perc | hátra kb. 5 perc
+Free HALADAS 258/401 (64%) | 2023-09-18 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 270/401 (67%) | 2023-12-11 | eltelt 11 perc | hátra kb. 5 perc
+Free HALADAS 259/401 (65%) | 2023-09-25 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 271/401 (68%) | 2023-12-18 | eltelt 11 perc | hátra kb. 5 perc
+Strict HALADAS 272/401 (68%) | 2023-12-26 | eltelt 11 perc | hátra kb. 5 perc
+Free HALADAS 260/401 (65%) | 2023-10-02 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 273/401 (68%) | 2024-01-02 | eltelt 11 perc | hátra kb. 5 perc
+Free HALADAS 261/401 (65%) | 2023-10-09 | eltelt 11 perc | hátra kb. 6 perc
+Free HALADAS 262/401 (65%) | 2023-10-16 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 274/401 (68%) | 2024-01-08 | eltelt 11 perc | hátra kb. 5 perc
+Free HALADAS 263/401 (66%) | 2023-10-23 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 275/401 (69%) | 2024-01-16 | eltelt 11 perc | hátra kb. 5 perc
+Free HALADAS 264/401 (66%) | 2023-10-30 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 276/401 (69%) | 2024-01-22 | eltelt 11 perc | hátra kb. 5 perc
+Strict HALADAS 277/401 (69%) | 2024-01-29 | eltelt 11 perc | hátra kb. 5 perc
+Free HALADAS 265/401 (66%) | 2023-11-06 | eltelt 11 perc | hátra kb. 6 perc
+Strict HALADAS 278/401 (69%) | 2024-02-05 | eltelt 11 perc | hátra kb. 5 perc
+Free HALADAS 266/401 (66%) | 2023-11-13 | eltelt 12 perc | hátra kb. 6 perc
+Strict HALADAS 279/401 (70%) | 2024-02-12 | eltelt 12 perc | hátra kb. 5 perc
+Strict HALADAS 280/401 (70%) | 2024-02-20 | eltelt 12 perc | hátra kb. 5 perc
+Free HALADAS 267/401 (67%) | 2023-11-20 | eltelt 12 perc | hátra kb. 6 perc
+Strict HALADAS 281/401 (70%) | 2024-02-26 | eltelt 12 perc | hátra kb. 5 perc
+Free HALADAS 268/401 (67%) | 2023-11-27 | eltelt 12 perc | hátra kb. 6 perc
+Strict HALADAS 282/401 (70%) | 2024-03-04 | eltelt 12 perc | hátra kb. 5 perc
+Free HALADAS 269/401 (67%) | 2023-12-04 | eltelt 12 perc | hátra kb. 6 perc
+Strict HALADAS 283/401 (71%) | 2024-03-11 | eltelt 12 perc | hátra kb. 5 perc
+Free HALADAS 270/401 (67%) | 2023-12-11 | eltelt 12 perc | hátra kb. 6 perc
+Strict HALADAS 284/401 (71%) | 2024-03-18 | eltelt 12 perc | hátra kb. 5 perc
+Strict HALADAS 285/401 (71%) | 2024-03-25 | eltelt 12 perc | hátra kb. 5 perc
+Free HALADAS 271/401 (68%) | 2023-12-18 | eltelt 12 perc | hátra kb. 6 perc
+Strict HALADAS 286/401 (71%) | 2024-04-01 | eltelt 12 perc | hátra kb. 5 perc
+Free HALADAS 272/401 (68%) | 2023-12-26 | eltelt 12 perc | hátra kb. 6 perc
+Free HALADAS 273/401 (68%) | 2024-01-02 | eltelt 12 perc | hátra kb. 6 perc
+Strict HALADAS 287/401 (72%) | 2024-04-08 | eltelt 12 perc | hátra kb. 5 perc
+Free HALADAS 274/401 (68%) | 2024-01-08 | eltelt 12 perc | hátra kb. 6 perc
+Strict HALADAS 288/401 (72%) | 2024-04-15 | eltelt 12 perc | hátra kb. 5 perc
+Free HALADAS 275/401 (69%) | 2024-01-16 | eltelt 12 perc | hátra kb. 6 perc
+Strict HALADAS 289/401 (72%) | 2024-04-22 | eltelt 12 perc | hátra kb. 5 perc
+Free HALADAS 276/401 (69%) | 2024-01-22 | eltelt 12 perc | hátra kb. 6 perc
+Strict HALADAS 290/401 (72%) | 2024-04-29 | eltelt 12 perc | hátra kb. 5 perc
+Strict HALADAS 291/401 (73%) | 2024-05-06 | eltelt 12 perc | hátra kb. 5 perc
+Free HALADAS 277/401 (69%) | 2024-01-29 | eltelt 12 perc | hátra kb. 5 perc
+Strict HALADAS 292/401 (73%) | 2024-05-13 | eltelt 12 perc | hátra kb. 5 perc
+Free HALADAS 278/401 (69%) | 2024-02-05 | eltelt 12 perc | hátra kb. 5 perc
+Strict HALADAS 293/401 (73%) | 2024-05-20 | eltelt 12 perc | hátra kb. 5 perc
+Strict HALADAS 294/401 (73%) | 2024-05-28 | eltelt 12 perc | hátra kb. 4 perc
+Free HALADAS 279/401 (70%) | 2024-02-12 | eltelt 12 perc | hátra kb. 5 perc
+Strict HALADAS 295/401 (74%) | 2024-06-03 | eltelt 12 perc | hátra kb. 4 perc
+Free HALADAS 280/401 (70%) | 2024-02-20 | eltelt 12 perc | hátra kb. 5 perc
+Strict HALADAS 296/401 (74%) | 2024-06-10 | eltelt 12 perc | hátra kb. 4 perc
+Strict HALADAS 297/401 (74%) | 2024-06-17 | eltelt 12 perc | hátra kb. 4 perc
+Free HALADAS 281/401 (70%) | 2024-02-26 | eltelt 12 perc | hátra kb. 5 perc
+Strict HALADAS 298/401 (74%) | 2024-06-24 | eltelt 12 perc | hátra kb. 4 perc
+Free HALADAS 282/401 (70%) | 2024-03-04 | eltelt 12 perc | hátra kb. 5 perc
+Strict HALADAS 299/401 (75%) | 2024-07-01 | eltelt 12 perc | hátra kb. 4 perc
+Free HALADAS 283/401 (71%) | 2024-03-11 | eltelt 13 perc | hátra kb. 5 perc
+Free HALADAS 284/401 (71%) | 2024-03-18 | eltelt 13 perc | hátra kb. 5 perc
+Strict HALADAS 300/401 (75%) | 2024-07-08 | eltelt 13 perc | hátra kb. 4 perc
+Free HALADAS 285/401 (71%) | 2024-03-25 | eltelt 13 perc | hátra kb. 5 perc
+Strict HALADAS 301/401 (75%) | 2024-07-15 | eltelt 13 perc | hátra kb. 4 perc
+Free HALADAS 286/401 (71%) | 2024-04-01 | eltelt 13 perc | hátra kb. 5 perc
+Strict HALADAS 302/401 (75%) | 2024-07-22 | eltelt 13 perc | hátra kb. 4 perc
+Strict HALADAS 303/401 (76%) | 2024-07-29 | eltelt 13 perc | hátra kb. 4 perc
+Strict HALADAS 304/401 (76%) | 2024-08-05 | eltelt 13 perc | hátra kb. 4 perc
+Strict HALADAS 305/401 (76%) | 2024-08-12 | eltelt 13 perc | hátra kb. 4 perc
+Free HALADAS 287/401 (72%) | 2024-04-08 | eltelt 13 perc | hátra kb. 5 perc
+Strict HALADAS 306/401 (76%) | 2024-08-19 | eltelt 13 perc | hátra kb. 4 perc
+Free HALADAS 288/401 (72%) | 2024-04-15 | eltelt 13 perc | hátra kb. 5 perc
+Strict HALADAS 307/401 (77%) | 2024-08-26 | eltelt 13 perc | hátra kb. 4 perc
+Strict HALADAS 308/401 (77%) | 2024-09-03 | eltelt 13 perc | hátra kb. 4 perc
+Free HALADAS 289/401 (72%) | 2024-04-22 | eltelt 13 perc | hátra kb. 5 perc
+Strict HALADAS 309/401 (77%) | 2024-09-09 | eltelt 13 perc | hátra kb. 4 perc
+Free HALADAS 290/401 (72%) | 2024-04-29 | eltelt 13 perc | hátra kb. 5 perc
+Strict HALADAS 310/401 (77%) | 2024-09-17 | eltelt 13 perc | hátra kb. 4 perc
+Strict HALADAS 311/401 (78%) | 2024-09-23 | eltelt 13 perc | hátra kb. 4 perc
+Free HALADAS 291/401 (73%) | 2024-05-06 | eltelt 13 perc | hátra kb. 5 perc
+Strict HALADAS 312/401 (78%) | 2024-09-30 | eltelt 13 perc | hátra kb. 4 perc
+Free HALADAS 292/401 (73%) | 2024-05-13 | eltelt 13 perc | hátra kb. 5 perc
+Free HALADAS 293/401 (73%) | 2024-05-20 | eltelt 13 perc | hátra kb. 5 perc
+Free HALADAS 294/401 (73%) | 2024-05-28 | eltelt 13 perc | hátra kb. 5 perc
+Free HALADAS 295/401 (74%) | 2024-06-03 | eltelt 13 perc | hátra kb. 5 perc
+Strict HALADAS 313/401 (78%) | 2024-10-07 | eltelt 13 perc | hátra kb. 4 perc
+Strict HALADAS 314/401 (78%) | 2024-10-14 | eltelt 13 perc | hátra kb. 4 perc
+Free HALADAS 296/401 (74%) | 2024-06-10 | eltelt 13 perc | hátra kb. 5 perc
+Strict HALADAS 315/401 (79%) | 2024-10-21 | eltelt 14 perc | hátra kb. 4 perc
+Free HALADAS 297/401 (74%) | 2024-06-17 | eltelt 14 perc | hátra kb. 5 perc
+Strict HALADAS 316/401 (79%) | 2024-10-28 | eltelt 14 perc | hátra kb. 4 perc
+Free HALADAS 298/401 (74%) | 2024-06-24 | eltelt 14 perc | hátra kb. 5 perc
+Strict HALADAS 317/401 (79%) | 2024-11-04 | eltelt 14 perc | hátra kb. 4 perc
+Free HALADAS 299/401 (75%) | 2024-07-01 | eltelt 14 perc | hátra kb. 5 perc
+Strict HALADAS 318/401 (79%) | 2024-11-11 | eltelt 14 perc | hátra kb. 4 perc
+Strict HALADAS 319/401 (80%) | 2024-11-18 | eltelt 14 perc | hátra kb. 4 perc
+Strict HALADAS 320/401 (80%) | 2024-11-25 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 300/401 (75%) | 2024-07-08 | eltelt 14 perc | hátra kb. 5 perc
+Strict HALADAS 321/401 (80%) | 2024-12-02 | eltelt 14 perc | hátra kb. 3 perc
+Strict HALADAS 322/401 (80%) | 2024-12-09 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 301/401 (75%) | 2024-07-15 | eltelt 14 perc | hátra kb. 5 perc
+Strict HALADAS 323/401 (81%) | 2024-12-16 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 302/401 (75%) | 2024-07-22 | eltelt 14 perc | hátra kb. 5 perc
+Strict HALADAS 324/401 (81%) | 2024-12-26 | eltelt 14 perc | hátra kb. 3 perc
+Strict HALADAS 325/401 (81%) | 2024-12-30 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 303/401 (76%) | 2024-07-29 | eltelt 14 perc | hátra kb. 5 perc
+Free HALADAS 304/401 (76%) | 2024-08-05 | eltelt 14 perc | hátra kb. 4 perc
+Strict HALADAS 326/401 (81%) | 2025-01-06 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 305/401 (76%) | 2024-08-12 | eltelt 14 perc | hátra kb. 4 perc
+Strict HALADAS 327/401 (82%) | 2025-01-13 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 306/401 (76%) | 2024-08-19 | eltelt 14 perc | hátra kb. 4 perc
+Strict HALADAS 328/401 (82%) | 2025-01-21 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 307/401 (77%) | 2024-08-26 | eltelt 14 perc | hátra kb. 4 perc
+Strict HALADAS 329/401 (82%) | 2025-01-27 | eltelt 14 perc | hátra kb. 3 perc
+Strict HALADAS 330/401 (82%) | 2025-02-03 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 308/401 (77%) | 2024-09-03 | eltelt 14 perc | hátra kb. 4 perc
+Strict HALADAS 331/401 (83%) | 2025-02-10 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 309/401 (77%) | 2024-09-09 | eltelt 14 perc | hátra kb. 4 perc
+Strict HALADAS 332/401 (83%) | 2025-02-18 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 310/401 (77%) | 2024-09-17 | eltelt 14 perc | hátra kb. 4 perc
+Strict HALADAS 333/401 (83%) | 2025-02-24 | eltelt 14 perc | hátra kb. 3 perc
+Strict HALADAS 334/401 (83%) | 2025-03-03 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 311/401 (78%) | 2024-09-23 | eltelt 14 perc | hátra kb. 4 perc
+Strict HALADAS 335/401 (84%) | 2025-03-10 | eltelt 14 perc | hátra kb. 3 perc
+Free HALADAS 312/401 (78%) | 2024-09-30 | eltelt 14 perc | hátra kb. 4 perc
+Strict HALADAS 336/401 (84%) | 2025-03-17 | eltelt 14 perc | hátra kb. 3 perc
+Strict HALADAS 337/401 (84%) | 2025-03-24 | eltelt 15 perc | hátra kb. 3 perc
+Strict HALADAS 338/401 (84%) | 2025-03-31 | eltelt 15 perc | hátra kb. 3 perc
+Free HALADAS 313/401 (78%) | 2024-10-07 | eltelt 15 perc | hátra kb. 4 perc
+Free HALADAS 314/401 (78%) | 2024-10-14 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 339/401 (85%) | 2025-04-07 | eltelt 15 perc | hátra kb. 3 perc
+Free HALADAS 315/401 (79%) | 2024-10-21 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 340/401 (85%) | 2025-04-14 | eltelt 15 perc | hátra kb. 3 perc
+Free HALADAS 316/401 (79%) | 2024-10-28 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 341/401 (85%) | 2025-04-21 | eltelt 15 perc | hátra kb. 3 perc
+Strict HALADAS 342/401 (85%) | 2025-04-28 | eltelt 15 perc | hátra kb. 3 perc
+Free HALADAS 317/401 (79%) | 2024-11-04 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 343/401 (86%) | 2025-05-05 | eltelt 15 perc | hátra kb. 3 perc
+Strict HALADAS 344/401 (86%) | 2025-05-12 | eltelt 15 perc | hátra kb. 2 perc
+Free HALADAS 318/401 (79%) | 2024-11-11 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 345/401 (86%) | 2025-05-19 | eltelt 15 perc | hátra kb. 2 perc
+Free HALADAS 319/401 (80%) | 2024-11-18 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 346/401 (86%) | 2025-05-27 | eltelt 15 perc | hátra kb. 2 perc
+Strict HALADAS 347/401 (87%) | 2025-06-02 | eltelt 15 perc | hátra kb. 2 perc
+Free HALADAS 320/401 (80%) | 2024-11-25 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 348/401 (87%) | 2025-06-09 | eltelt 15 perc | hátra kb. 2 perc
+Free HALADAS 321/401 (80%) | 2024-12-02 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 349/401 (87%) | 2025-07-07 | eltelt 15 perc | hátra kb. 2 perc
+Strict HALADAS 350/401 (87%) | 2025-07-14 | eltelt 15 perc | hátra kb. 2 perc
+Free HALADAS 322/401 (80%) | 2024-12-09 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 351/401 (88%) | 2025-07-21 | eltelt 15 perc | hátra kb. 2 perc
+Free HALADAS 323/401 (81%) | 2024-12-16 | eltelt 15 perc | hátra kb. 4 perc
+Free HALADAS 324/401 (81%) | 2024-12-26 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 352/401 (88%) | 2025-07-28 | eltelt 15 perc | hátra kb. 2 perc
+Free HALADAS 325/401 (81%) | 2024-12-30 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 353/401 (88%) | 2025-08-04 | eltelt 15 perc | hátra kb. 2 perc
+Strict HALADAS 354/401 (88%) | 2025-08-11 | eltelt 15 perc | hátra kb. 2 perc
+Strict HALADAS 355/401 (89%) | 2025-08-18 | eltelt 15 perc | hátra kb. 2 perc
+Free HALADAS 326/401 (81%) | 2025-01-06 | eltelt 15 perc | hátra kb. 4 perc
+Strict HALADAS 356/401 (89%) | 2025-08-25 | eltelt 15 perc | hátra kb. 2 perc
+Free HALADAS 327/401 (82%) | 2025-01-13 | eltelt 16 perc | hátra kb. 4 perc
+Strict HALADAS 357/401 (89%) | 2025-09-02 | eltelt 16 perc | hátra kb. 2 perc
+Strict HALADAS 358/401 (89%) | 2025-09-08 | eltelt 16 perc | hátra kb. 2 perc
+Free HALADAS 328/401 (82%) | 2025-01-21 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 359/401 (90%) | 2025-09-15 | eltelt 16 perc | hátra kb. 2 perc
+Free HALADAS 329/401 (82%) | 2025-01-27 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 360/401 (90%) | 2025-09-22 | eltelt 16 perc | hátra kb. 2 perc
+Strict HALADAS 361/401 (90%) | 2025-09-29 | eltelt 16 perc | hátra kb. 2 perc
+Free HALADAS 330/401 (82%) | 2025-02-03 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 362/401 (90%) | 2025-10-06 | eltelt 16 perc | hátra kb. 2 perc
+Free HALADAS 331/401 (83%) | 2025-02-10 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 363/401 (91%) | 2025-10-13 | eltelt 16 perc | hátra kb. 2 perc
+Strict HALADAS 364/401 (91%) | 2025-10-20 | eltelt 16 perc | hátra kb. 2 perc
+Free HALADAS 332/401 (83%) | 2025-02-18 | eltelt 16 perc | hátra kb. 3 perc
+Free HALADAS 333/401 (83%) | 2025-02-24 | eltelt 16 perc | hátra kb. 3 perc
+Free HALADAS 334/401 (83%) | 2025-03-03 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 365/401 (91%) | 2025-10-27 | eltelt 16 perc | hátra kb. 2 perc
+Strict HALADAS 366/401 (91%) | 2025-11-03 | eltelt 16 perc | hátra kb. 2 perc
+Free HALADAS 335/401 (84%) | 2025-03-10 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 367/401 (92%) | 2025-11-10 | eltelt 16 perc | hátra kb. 1 perc
+Free HALADAS 336/401 (84%) | 2025-03-17 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 368/401 (92%) | 2025-11-17 | eltelt 16 perc | hátra kb. 1 perc
+Free HALADAS 337/401 (84%) | 2025-03-24 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 369/401 (92%) | 2025-11-24 | eltelt 16 perc | hátra kb. 1 perc
+Free HALADAS 338/401 (84%) | 2025-03-31 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 370/401 (92%) | 2025-12-01 | eltelt 16 perc | hátra kb. 1 perc
+Strict HALADAS 371/401 (93%) | 2025-12-08 | eltelt 16 perc | hátra kb. 1 perc
+Strict HALADAS 372/401 (93%) | 2025-12-15 | eltelt 16 perc | hátra kb. 1 perc
+Free HALADAS 339/401 (85%) | 2025-04-07 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 373/401 (93%) | 2025-12-22 | eltelt 16 perc | hátra kb. 1 perc
+Strict HALADAS 374/401 (93%) | 2025-12-29 | eltelt 16 perc | hátra kb. 1 perc
+Free HALADAS 340/401 (85%) | 2025-04-14 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 375/401 (94%) | 2026-01-05 | eltelt 16 perc | hátra kb. 1 perc
+Strict HALADAS 376/401 (94%) | 2026-01-12 | eltelt 16 perc | hátra kb. 1 perc
+Free HALADAS 341/401 (85%) | 2025-04-21 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 377/401 (94%) | 2026-01-20 | eltelt 16 perc | hátra kb. 1 perc
+Free HALADAS 342/401 (85%) | 2025-04-28 | eltelt 16 perc | hátra kb. 3 perc
+Free HALADAS 343/401 (86%) | 2025-05-05 | eltelt 16 perc | hátra kb. 3 perc
+Strict HALADAS 378/401 (94%) | 2026-01-26 | eltelt 17 perc | hátra kb. 1 perc
+Free HALADAS 344/401 (86%) | 2025-05-12 | eltelt 17 perc | hátra kb. 3 perc
+Strict HALADAS 379/401 (95%) | 2026-02-02 | eltelt 17 perc | hátra kb. 1 perc
+Strict HALADAS 380/401 (95%) | 2026-02-09 | eltelt 17 perc | hátra kb. 1 perc
+Free HALADAS 345/401 (86%) | 2025-05-19 | eltelt 17 perc | hátra kb. 3 perc
+Strict HALADAS 381/401 (95%) | 2026-02-17 | eltelt 17 perc | hátra kb. 1 perc
+Free HALADAS 346/401 (86%) | 2025-05-27 | eltelt 17 perc | hátra kb. 3 perc
+Strict HALADAS 382/401 (95%) | 2026-02-23 | eltelt 17 perc | hátra kb. 1 perc
+Strict HALADAS 383/401 (96%) | 2026-03-02 | eltelt 17 perc | hátra kb. 1 perc
+Free HALADAS 347/401 (87%) | 2025-06-02 | eltelt 17 perc | hátra kb. 3 perc
+Strict HALADAS 384/401 (96%) | 2026-03-09 | eltelt 17 perc | hátra kb. 1 perc
+Free HALADAS 348/401 (87%) | 2025-06-09 | eltelt 17 perc | hátra kb. 3 perc
+Strict HALADAS 385/401 (96%) | 2026-03-16 | eltelt 17 perc | hátra kb. 1 perc
+Free HALADAS 349/401 (87%) | 2025-07-07 | eltelt 17 perc | hátra kb. 3 perc
+Strict HALADAS 386/401 (96%) | 2026-03-23 | eltelt 17 perc | hátra kb. 1 perc
+Strict HALADAS 387/401 (97%) | 2026-03-30 | eltelt 17 perc | hátra kb. 1 perc
+Free HALADAS 350/401 (87%) | 2025-07-14 | eltelt 17 perc | hátra kb. 2 perc
+Strict HALADAS 388/401 (97%) | 2026-04-06 | eltelt 17 perc | hátra kb. 1 perc
+Strict HALADAS 389/401 (97%) | 2026-04-13 | eltelt 17 perc | hátra kb. 1 perc
+Free HALADAS 351/401 (88%) | 2025-07-21 | eltelt 17 perc | hátra kb. 2 perc
+Strict HALADAS 390/401 (97%) | 2026-04-20 | eltelt 17 perc | hátra kb. 0 perc
+Free HALADAS 352/401 (88%) | 2025-07-28 | eltelt 17 perc | hátra kb. 2 perc
+Strict HALADAS 391/401 (98%) | 2026-04-27 | eltelt 17 perc | hátra kb. 0 perc
+Free HALADAS 353/401 (88%) | 2025-08-04 | eltelt 17 perc | hátra kb. 2 perc
+Strict HALADAS 392/401 (98%) | 2026-05-04 | eltelt 17 perc | hátra kb. 0 perc
+Free HALADAS 354/401 (88%) | 2025-08-11 | eltelt 17 perc | hátra kb. 2 perc
+Strict HALADAS 393/401 (98%) | 2026-05-11 | eltelt 17 perc | hátra kb. 0 perc
+Strict HALADAS 394/401 (98%) | 2026-05-18 | eltelt 17 perc | hátra kb. 0 perc
+Free HALADAS 355/401 (89%) | 2025-08-18 | eltelt 17 perc | hátra kb. 2 perc
+Strict HALADAS 395/401 (99%) | 2026-05-26 | eltelt 17 perc | hátra kb. 0 perc
+Free HALADAS 356/401 (89%) | 2025-08-25 | eltelt 17 perc | hátra kb. 2 perc
+Strict HALADAS 396/401 (99%) | 2026-06-01 | eltelt 17 perc | hátra kb. 0 perc
+Strict HALADAS 397/401 (99%) | 2026-06-08 | eltelt 18 perc | hátra kb. 0 perc
+Free HALADAS 357/401 (89%) | 2025-09-02 | eltelt 18 perc | hátra kb. 2 perc
+Strict HALADAS 398/401 (99%) | 2026-06-15 | eltelt 18 perc | hátra kb. 0 perc
+Free HALADAS 358/401 (89%) | 2025-09-08 | eltelt 18 perc | hátra kb. 2 perc
+Strict HALADAS 399/401 (100%) | 2026-06-22 | eltelt 18 perc | hátra kb. 0 perc
+Strict HALADAS 400/401 (100%) | 2026-06-29 | eltelt 18 perc | hátra kb. 0 perc
+Free HALADAS 359/401 (90%) | 2025-09-15 | eltelt 18 perc | hátra kb. 2 perc
+Strict HALADAS 401/401 (100%) | 2026-07-06 | eltelt 18 perc | hátra kb. 0 perc
+Strict KESZ (18 perc)
+Free HALADAS 360/401 (90%) | 2025-09-22 | eltelt 18 perc | hátra kb. 2 perc
+Free HALADAS 361/401 (90%) | 2025-09-29 | eltelt 18 perc | hátra kb. 2 perc
+Free HALADAS 362/401 (90%) | 2025-10-06 | eltelt 18 perc | hátra kb. 2 perc
+Free HALADAS 363/401 (91%) | 2025-10-13 | eltelt 18 perc | hátra kb. 2 perc
+Free HALADAS 364/401 (91%) | 2025-10-20 | eltelt 18 perc | hátra kb. 2 perc
+Free HALADAS 365/401 (91%) | 2025-10-27 | eltelt 18 perc | hátra kb. 2 perc
+Free HALADAS 366/401 (91%) | 2025-11-03 | eltelt 18 perc | hátra kb. 2 perc
+Free HALADAS 367/401 (92%) | 2025-11-10 | eltelt 18 perc | hátra kb. 2 perc
+Free HALADAS 368/401 (92%) | 2025-11-17 | eltelt 18 perc | hátra kb. 2 perc
+Free HALADAS 369/401 (92%) | 2025-11-24 | eltelt 18 perc | hátra kb. 2 perc
+Free HALADAS 370/401 (92%) | 2025-12-01 | eltelt 18 perc | hátra kb. 2 perc
+Free HALADAS 371/401 (93%) | 2025-12-08 | eltelt 18 perc | hátra kb. 1 perc
+Free HALADAS 372/401 (93%) | 2025-12-15 | eltelt 18 perc | hátra kb. 1 perc
+Free HALADAS 373/401 (93%) | 2025-12-22 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 374/401 (93%) | 2025-12-29 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 375/401 (94%) | 2026-01-05 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 376/401 (94%) | 2026-01-12 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 377/401 (94%) | 2026-01-20 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 378/401 (94%) | 2026-01-26 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 379/401 (95%) | 2026-02-02 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 380/401 (95%) | 2026-02-09 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 381/401 (95%) | 2026-02-17 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 382/401 (95%) | 2026-02-23 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 383/401 (96%) | 2026-03-02 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 384/401 (96%) | 2026-03-09 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 385/401 (96%) | 2026-03-16 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 386/401 (96%) | 2026-03-23 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 387/401 (97%) | 2026-03-30 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 388/401 (97%) | 2026-04-06 | eltelt 19 perc | hátra kb. 1 perc
+Free HALADAS 389/401 (97%) | 2026-04-13 | eltelt 20 perc | hátra kb. 1 perc
+Free HALADAS 390/401 (97%) | 2026-04-20 | eltelt 20 perc | hátra kb. 1 perc
+Free HALADAS 391/401 (98%) | 2026-04-27 | eltelt 20 perc | hátra kb. 1 perc
+Free HALADAS 392/401 (98%) | 2026-05-04 | eltelt 20 perc | hátra kb. 0 perc
+Free HALADAS 393/401 (98%) | 2026-05-11 | eltelt 20 perc | hátra kb. 0 perc
+Free HALADAS 394/401 (98%) | 2026-05-18 | eltelt 20 perc | hátra kb. 0 perc
+Free HALADAS 395/401 (99%) | 2026-05-26 | eltelt 20 perc | hátra kb. 0 perc
+Free HALADAS 396/401 (99%) | 2026-06-01 | eltelt 20 perc | hátra kb. 0 perc
+Free HALADAS 397/401 (99%) | 2026-06-08 | eltelt 20 perc | hátra kb. 0 perc
+Free HALADAS 398/401 (99%) | 2026-06-15 | eltelt 20 perc | hátra kb. 0 perc
+Free HALADAS 399/401 (100%) | 2026-06-22 | eltelt 20 perc | hátra kb. 0 perc
+Free HALADAS 400/401 (100%) | 2026-06-29 | eltelt 20 perc | hátra kb. 0 perc
+Free HALADAS 401/401 (100%) | 2026-07-06 | eltelt 20 perc | hátra kb. 0 perc
+Free KESZ (20 perc)
+OSSZEVETES (QLIKE / HAR_L4):
+sample              COVID  Ukraine_war  ex_2020   full  top5pct_days
+model                                                               
+HAR_L4              1.000        1.000    1.000  1.000         1.000
+LSTM_L4 (hibrid)    1.000        0.996    1.013  1.010         1.042
+LSTM_Max Free       1.063        1.067    1.064  1.061         0.998
+LSTM_Max Strict     8.686        1.524    1.474  2.659         5.644
+LSTM_Pure (tiszta)  8.511        1.688    1.505  2.648         5.559
+vege: 2026. 10. 21. 23:35:31,10 (kilepesi kod: 0) 

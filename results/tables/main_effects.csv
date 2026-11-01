@@ -1,0 +1,7 @@
+dimension,mean_relative_spread,levels
+level,0.11655286726329997,"L1, L2, L3, L4"
+transformation,0.05123517459734106,"Log, QuarticRoot"
+measure,0.046747890155847835,"Garman_Klass, Parkinson, RV, RV_CJ"
+frequency,0.020201117529333207,"Monthly, Weekly"
+window,0.01810726843048669,"2Y, 3Y"
+family,0.009451790777930794,"HAR, LSTM"
